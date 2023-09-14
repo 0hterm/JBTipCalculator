@@ -7,7 +7,7 @@ Jimmy Brooklyn's Tip Calculator
 
 # HOW TO USE:
 - Enter values in respective txt files through the night. (ex. Tips recieved in cash go in "cashtips.txt", cash order amounts will go in "cashorders.txt", etc.)
-- <b><u>Each value should be on a new line.</u></b>
+- <b><ins>Each value should be on a new line.</ins></b>
 - At the end of your shift, run the program.
 
 # Author Information
