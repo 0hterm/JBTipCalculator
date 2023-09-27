@@ -109,6 +109,7 @@ int main() {
   cout << "\nCard: " << cardTips.size() + (cashTips.size() - cash.size());
   cout << "\nTotal: " << totalLength;
 
+  // We add the totalLength to totalTips because we earn $1 per delivery.
   cout << "\n\nTotal made today: $" << totalTips + totalLength;
 
   if (owed < 0){
