@@ -1,1 +1,1 @@
-// Place value of card tips here
+// Place card tips here
